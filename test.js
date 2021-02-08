@@ -18,7 +18,6 @@ copy.querySelector("h1 span").textContent =
 copy.querySelector("p span").textContent = student.Nationality;
 copy.querySelector("img").src = student.img;
 
-// find parent
 const parent = document.querySelector("main");
 
 // append
