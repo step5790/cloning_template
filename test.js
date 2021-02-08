@@ -20,5 +20,4 @@ copy.querySelector("img").src = student.img;
 
 const parent = document.querySelector("main");
 
-// append
 parent.appendChild(copy);
